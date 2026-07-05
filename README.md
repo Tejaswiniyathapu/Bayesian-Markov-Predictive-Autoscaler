@@ -192,7 +192,7 @@ streamlit run dashboard.py
 
 ## 📡 Kafka Running
 
-![Kafka](screenshots/kafka-running.png)
+![Kafka](screenshots/kafka_running.png)
 
 ---
 
@@ -208,9 +208,6 @@ streamlit run dashboard.py
 
 ---
 
-## 💻 GitHub Repository
-
-![GitHub](screenshots/github.png)
 
 ---
 
