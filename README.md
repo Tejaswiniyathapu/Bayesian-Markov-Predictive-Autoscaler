@@ -76,9 +76,8 @@ Bayesian-Markov-Predictive-Autoscaler
 
 # 🏗️ System Architecture
 
-```
 ![System Architecture](architecture/arc.png)
-```
+
 
 ---
 
