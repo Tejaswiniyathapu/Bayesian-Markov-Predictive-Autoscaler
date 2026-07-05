@@ -77,32 +77,7 @@ Bayesian-Markov-Predictive-Autoscaler
 # 🏗️ System Architecture
 
 ```
-Traffic Simulator
-        │
-        ▼
-Kafka Producer
-        │
-        ▼
-Apache Kafka
-        │
-        ▼
-Kafka Consumer
-        │
-        ├────────► Bayesian Inference
-        │               │
-        │               ▼
-        │         Markov Chain
-        │               │
-        │               ▼
-        │       Decision Engine
-        │               │
-        ├──────────────► Redis
-        │
-        ▼
-CSV Logger
-        │
-        ▼
-Streamlit Dashboard
+![System Architecture](architecture/arc.png)
 ```
 
 ---
